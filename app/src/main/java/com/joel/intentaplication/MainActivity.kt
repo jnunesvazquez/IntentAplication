@@ -81,5 +81,7 @@ class MainActivity : AppCompatActivity() {
                         Toast.LENGTH_SHORT).show()
                 }
             }
+        val intent = Intent(this, MapsActivity::class.java).apply {}
+        startActivity(intent)
     }
 }

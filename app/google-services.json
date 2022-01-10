@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "157788157182",
+    "project_id": "intent-f848c",
+    "storage_bucket": "intent-f848c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157788157182:android:2ba9104f352490bf7aa1af",
+        "android_client_info": {
+          "package_name": "com.joel.intentaplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157788157182-dchu6jo14g4dacaskjg0ng9ohtf27iun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtroTdsvAYUZ6ghi1r65qvfkOIVERbMwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157788157182-dchu6jo14g4dacaskjg0ng9ohtf27iun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
